@@ -103,7 +103,7 @@ html{
 }
 .nav-bar2{
     height: 30px;
-    width: 100%;
+    width: 100vw;
     flex-shrink: 0;
     background: #061625;
     display: flex;
