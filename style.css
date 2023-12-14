@@ -113,6 +113,7 @@ html{
 .nav-bar{
     position: fixed;
     z-index: 10;
+    width:100%;
 } 
 .nav-icons a{
     color: #FFF;
